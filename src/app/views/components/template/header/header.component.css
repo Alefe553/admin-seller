@@ -1,0 +1,38 @@
+.header{
+    display: fex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.header span {
+    font-weight: 300;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo {
+    max-height: 36px;
+    border-radius: 5px;
+}
+
+.header .title-group {
+    padding-left: 15px;
+}
+
+.header .title-group i {
+    padding-right: 10px;
+}
+
+.header .title-group a {
+    color: #fff;
+}
+
+.link{
+    margin-left: 8px;
+    color: #fff;
+    font-weight: 400;
+}

@@ -1,0 +1,12 @@
+.button-cancel {
+    background-color: #892222;
+    margin-left: 16px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 16px;
+}

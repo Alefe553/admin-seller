@@ -1,0 +1,23 @@
+.full-width-table {
+    width: 100%;
+}
+
+
+.edit{
+    padding-right: 8px;
+}
+
+.edit > i {
+    color: #fff;
+}
+
+.delete > button {
+    margin-left: 10px;
+}
+
+button {
+    color: #fff;
+    background-color: #9e0000;
+    border: none;
+    border-radius: 5px;
+}
